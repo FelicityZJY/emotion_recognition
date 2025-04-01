@@ -1,0 +1,3 @@
+Using device: cuda
+模型的 FLOPS: 1.111G
+模型的参数量: 442.850K

@@ -1,0 +1,291 @@
+Using device: cuda
+Fold 1/5
+Epoch [1/50], Loss: 4.6376
+Epoch [2/50], Loss: 4.5855
+Epoch [3/50], Loss: 4.2388
+Epoch [4/50], Loss: 3.6252
+Epoch [5/50], Loss: 3.4009
+Epoch [6/50], Loss: 3.3004
+Epoch [7/50], Loss: 3.1941
+Epoch [8/50], Loss: 3.0690
+Epoch [9/50], Loss: 3.0098
+Epoch [10/50], Loss: 2.9662
+Epoch [11/50], Loss: 2.9433
+Epoch [12/50], Loss: 2.9258
+Epoch [13/50], Loss: 2.9055
+Epoch [14/50], Loss: 2.9436
+Epoch [15/50], Loss: 2.8546
+Epoch [16/50], Loss: 2.8387
+Epoch [17/50], Loss: 2.8304
+Epoch [18/50], Loss: 2.8168
+Epoch [19/50], Loss: 2.8145
+Epoch [20/50], Loss: 2.8092
+Epoch [21/50], Loss: 2.8067
+Epoch [22/50], Loss: 2.8028
+Epoch [23/50], Loss: 2.8009
+Epoch [24/50], Loss: 2.7999
+Epoch [25/50], Loss: 2.7932
+Epoch [26/50], Loss: 2.7862
+Epoch [27/50], Loss: 2.8531
+Epoch [28/50], Loss: 2.7721
+Epoch [29/50], Loss: 2.7703
+Epoch [30/50], Loss: 2.7693
+Epoch [31/50], Loss: 2.7685
+Epoch [32/50], Loss: 2.7677
+Epoch [33/50], Loss: 2.7670
+Epoch [34/50], Loss: 2.7669
+Epoch [35/50], Loss: 2.7667
+Epoch [36/50], Loss: 2.7627
+Epoch [37/50], Loss: 2.7590
+Epoch [38/50], Loss: 2.7579
+Epoch [39/50], Loss: 2.7549
+Epoch [40/50], Loss: 2.7532
+Epoch [41/50], Loss: 2.7526
+Epoch [42/50], Loss: 2.7523
+Epoch [43/50], Loss: 2.8514
+Epoch [44/50], Loss: 2.7360
+Epoch [45/50], Loss: 2.7341
+Epoch [46/50], Loss: 2.7339
+Epoch [47/50], Loss: 2.7340
+Epoch [48/50], Loss: 2.7339
+Epoch [49/50], Loss: 2.7338
+Epoch [50/50], Loss: 2.7339
+Fold 2/5
+Epoch [1/50], Loss: 2.7381
+Epoch [2/50], Loss: 2.7369
+Epoch [3/50], Loss: 2.7333
+Epoch [4/50], Loss: 2.7331
+Epoch [5/50], Loss: 2.7332
+Epoch [6/50], Loss: 2.7332
+Epoch [7/50], Loss: 2.7332
+Epoch [8/50], Loss: 2.7332
+Epoch [9/50], Loss: 2.7332
+Epoch [10/50], Loss: 2.7744
+Epoch [11/50], Loss: 2.7315
+Epoch [12/50], Loss: 2.7313
+Epoch [13/50], Loss: 2.7314
+Epoch [14/50], Loss: 2.7314
+Epoch [15/50], Loss: 2.7314
+Epoch [16/50], Loss: 2.7314
+Epoch [17/50], Loss: 2.7313
+Epoch [18/50], Loss: 2.7313
+Epoch [19/50], Loss: 2.7304
+Epoch [20/50], Loss: 2.7509
+Epoch [21/50], Loss: 2.7478
+Epoch [22/50], Loss: 2.7285
+Epoch [23/50], Loss: 2.7281
+Epoch [24/50], Loss: 2.7281
+Epoch [25/50], Loss: 2.7282
+Epoch [26/50], Loss: 2.7282
+Epoch [27/50], Loss: 2.7282
+Epoch [28/50], Loss: 2.7575
+Epoch [29/50], Loss: 2.7262
+Epoch [30/50], Loss: 2.7261
+Epoch [31/50], Loss: 2.7260
+Epoch [32/50], Loss: 2.7243
+Epoch [33/50], Loss: 2.7225
+Epoch [34/50], Loss: 2.7225
+Epoch [35/50], Loss: 2.7225
+Epoch [36/50], Loss: 2.7435
+Epoch [37/50], Loss: 2.7213
+Epoch [38/50], Loss: 2.7208
+Epoch [39/50], Loss: 2.7208
+Epoch [40/50], Loss: 2.7208
+Epoch [41/50], Loss: 2.7208
+Epoch [42/50], Loss: 2.7379
+Epoch [43/50], Loss: 2.7222
+Epoch [44/50], Loss: 2.7226
+Epoch [45/50], Loss: 2.7208
+Epoch [46/50], Loss: 2.7207
+Epoch [47/50], Loss: 2.7208
+Epoch [48/50], Loss: 2.7208
+Epoch [49/50], Loss: 2.7208
+Epoch [50/50], Loss: 2.7208
+Fold 3/5
+Epoch [1/50], Loss: 2.7233
+Epoch [2/50], Loss: 2.7257
+Epoch [3/50], Loss: 2.7216
+Epoch [4/50], Loss: 2.7377
+Epoch [5/50], Loss: 2.7209
+Epoch [6/50], Loss: 2.7206
+Epoch [7/50], Loss: 2.7206
+Epoch [8/50], Loss: 2.7206
+Epoch [9/50], Loss: 2.7215
+Epoch [10/50], Loss: 2.7323
+Epoch [11/50], Loss: 2.7221
+Epoch [12/50], Loss: 2.7247
+Epoch [13/50], Loss: 2.7238
+Epoch [14/50], Loss: 2.7212
+Epoch [15/50], Loss: 2.7236
+Epoch [16/50], Loss: 2.7206
+Epoch [17/50], Loss: 2.7205
+Epoch [18/50], Loss: 2.7205
+Epoch [19/50], Loss: 2.7205
+Epoch [20/50], Loss: 2.7205
+Epoch [21/50], Loss: 2.7205
+Epoch [22/50], Loss: 2.7205
+Epoch [23/50], Loss: 2.7205
+Epoch [24/50], Loss: 2.7205
+Epoch [25/50], Loss: 2.7205
+Epoch [26/50], Loss: 2.7205
+Epoch [27/50], Loss: 2.7205
+Epoch [28/50], Loss: 2.7204
+Epoch [29/50], Loss: 2.7222
+Epoch [30/50], Loss: 2.7446
+Epoch [31/50], Loss: 2.7206
+Epoch [32/50], Loss: 2.7205
+Epoch [33/50], Loss: 2.7205
+Epoch [34/50], Loss: 2.7205
+Epoch [35/50], Loss: 2.7205
+Epoch [36/50], Loss: 2.7399
+Epoch [37/50], Loss: 2.7207
+Epoch [38/50], Loss: 2.7205
+Epoch [39/50], Loss: 2.7206
+Epoch [40/50], Loss: 2.7211
+Epoch [41/50], Loss: 2.7275
+Epoch [42/50], Loss: 2.7214
+Epoch [43/50], Loss: 2.7205
+Epoch [44/50], Loss: 2.7205
+Epoch [45/50], Loss: 2.7205
+Epoch [46/50], Loss: 2.7205
+Epoch [47/50], Loss: 2.7205
+Epoch [48/50], Loss: 2.7205
+Epoch [49/50], Loss: 2.7205
+Epoch [50/50], Loss: 2.7205
+Fold 4/5
+Epoch [1/50], Loss: 2.7228
+Epoch [2/50], Loss: 2.7235
+Epoch [3/50], Loss: 2.7216
+Epoch [4/50], Loss: 2.7219
+Epoch [5/50], Loss: 2.7205
+Epoch [6/50], Loss: 2.7273
+Epoch [7/50], Loss: 2.7232
+Epoch [8/50], Loss: 2.7205
+Epoch [9/50], Loss: 2.7205
+Epoch [10/50], Loss: 2.7205
+Epoch [11/50], Loss: 2.7205
+Epoch [12/50], Loss: 2.7291
+Epoch [13/50], Loss: 2.7304
+Epoch [14/50], Loss: 2.7189
+Epoch [15/50], Loss: 2.7189
+Epoch [16/50], Loss: 2.7189
+Epoch [17/50], Loss: 2.7189
+Epoch [18/50], Loss: 2.7189
+Epoch [19/50], Loss: 2.7189
+Epoch [20/50], Loss: 2.7189
+Epoch [21/50], Loss: 2.7191
+Epoch [22/50], Loss: 2.7326
+Epoch [23/50], Loss: 2.7190
+Epoch [24/50], Loss: 2.7197
+Epoch [25/50], Loss: 2.7239
+Epoch [26/50], Loss: 2.7197
+Epoch [27/50], Loss: 2.7194
+Epoch [28/50], Loss: 2.7199
+Epoch [29/50], Loss: 2.7256
+Epoch [30/50], Loss: 2.7182
+Epoch [31/50], Loss: 2.7205
+Epoch [32/50], Loss: 2.7176
+Epoch [33/50], Loss: 2.7180
+Epoch [34/50], Loss: 2.7188
+Epoch [35/50], Loss: 2.7176
+Epoch [36/50], Loss: 2.7226
+Epoch [37/50], Loss: 2.7268
+Epoch [38/50], Loss: 2.7177
+Epoch [39/50], Loss: 2.7176
+Epoch [40/50], Loss: 2.7177
+Epoch [41/50], Loss: 2.7177
+Epoch [42/50], Loss: 2.7176
+Epoch [43/50], Loss: 2.7176
+Epoch [44/50], Loss: 2.7176
+Epoch [45/50], Loss: 2.7176
+Epoch [46/50], Loss: 2.7176
+Epoch [47/50], Loss: 2.7176
+Epoch [48/50], Loss: 2.7176
+Epoch [49/50], Loss: 2.7176
+Epoch [50/50], Loss: 2.7176
+Fold 5/5
+Epoch [1/50], Loss: 2.7188
+Epoch [2/50], Loss: 2.7203
+Epoch [3/50], Loss: 2.7177
+Epoch [4/50], Loss: 2.7177
+Epoch [5/50], Loss: 2.7177
+Epoch [6/50], Loss: 2.7177
+Epoch [7/50], Loss: 2.7177
+Epoch [8/50], Loss: 2.7177
+Epoch [9/50], Loss: 2.7177
+Epoch [10/50], Loss: 2.7274
+Epoch [11/50], Loss: 2.7270
+Epoch [12/50], Loss: 2.7195
+Epoch [13/50], Loss: 2.7194
+Epoch [14/50], Loss: 2.7192
+Epoch [15/50], Loss: 2.7203
+Epoch [16/50], Loss: 2.7215
+Epoch [17/50], Loss: 2.7221
+Epoch [18/50], Loss: 2.7177
+Epoch [19/50], Loss: 2.7183
+Epoch [20/50], Loss: 2.7205
+Epoch [21/50], Loss: 2.7177
+Epoch [22/50], Loss: 2.7177
+Epoch [23/50], Loss: 2.7177
+Epoch [24/50], Loss: 2.7177
+Epoch [25/50], Loss: 2.7177
+Epoch [26/50], Loss: 2.7177
+Epoch [27/50], Loss: 2.7177
+Epoch [28/50], Loss: 2.7177
+Epoch [29/50], Loss: 2.7177
+Epoch [30/50], Loss: 2.7177
+Epoch [31/50], Loss: 2.7359
+Epoch [32/50], Loss: 2.7279
+Epoch [33/50], Loss: 2.7180
+Epoch [34/50], Loss: 2.7177
+Epoch [35/50], Loss: 2.7177
+Epoch [36/50], Loss: 2.7177
+Epoch [37/50], Loss: 2.7177
+Epoch [38/50], Loss: 2.7177
+Epoch [39/50], Loss: 2.7177
+Epoch [40/50], Loss: 2.7177
+Epoch [41/50], Loss: 2.7177
+Epoch [42/50], Loss: 2.7177
+Epoch [43/50], Loss: 2.7177
+Epoch [44/50], Loss: 2.7177
+Epoch [45/50], Loss: 2.7177
+Epoch [46/50], Loss: 2.7177
+Epoch [47/50], Loss: 2.7177
+Epoch [48/50], Loss: 2.7396
+Epoch [49/50], Loss: 2.7182
+Epoch [50/50], Loss: 2.7178
+Final Evaluation on Test Set:
+Valence Class 1:
+  Precision: 0.0000, Recall: 0.0000, Specificity: 1.0000, F1-score: 0.0000
+Arousal Class 1:
+  Precision: 0.0000, Recall: 0.0000, Specificity: 1.0000, F1-score: 0.0000
+Dominance Class 1:
+  Precision: 0.0000, Recall: 0.0000, Specificity: 1.0000, F1-score: 0.0000
+Valence Class 2:
+  Precision: 1.0000, Recall: 1.0000, Specificity: 1.0000, F1-score: 1.0000
+Arousal Class 2:
+  Precision: 1.0000, Recall: 1.0000, Specificity: 1.0000, F1-score: 1.0000
+Dominance Class 2:
+  Precision: 1.0000, Recall: 0.9465, Specificity: 1.0000, F1-score: 0.9725
+Valence Class 3:
+  Precision: 0.9919, Recall: 1.0000, Specificity: 0.9980, F1-score: 0.9959
+Arousal Class 3:
+  Precision: 1.0000, Recall: 1.0000, Specificity: 1.0000, F1-score: 1.0000
+Dominance Class 3:
+  Precision: 1.0000, Recall: 1.0000, Specificity: 1.0000, F1-score: 1.0000
+Valence Class 4:
+  Precision: 1.0000, Recall: 0.9921, Specificity: 1.0000, F1-score: 0.9960
+Arousal Class 4:
+  Precision: 1.0000, Recall: 1.0000, Specificity: 1.0000, F1-score: 1.0000
+Dominance Class 4:
+  Precision: 0.9945, Recall: 1.0000, Specificity: 0.9980, F1-score: 0.9972
+Valence Class 5:
+  Precision: 1.0000, Recall: 1.0000, Specificity: 1.0000, F1-score: 1.0000
+Arousal Class 5:
+  Precision: 1.0000, Recall: 1.0000, Specificity: 1.0000, F1-score: 1.0000
+Dominance Class 5:
+  Precision: 1.0000, Recall: 1.0000, Specificity: 1.0000, F1-score: 1.0000
+Final Results:
+Valence Accuracy: 0.9984
+Arousal Accuracy: 1.0000
+Dominance Accuracy: 0.9985
